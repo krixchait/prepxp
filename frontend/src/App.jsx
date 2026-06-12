@@ -13,7 +13,7 @@ import ErrorState from './components/ui/ErrorState';
 
 import './index.css';
 
-const API_BASE = 'http://127.0.0.1:8000/codeforces';
+const API_BASE = 'https://prepxp-2.onrender.com/codeforces';
 
 function App() {
   // Data state
